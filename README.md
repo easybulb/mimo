@@ -4,7 +4,7 @@ Mimo is a user-friendly task management app designed to help individuals and tea
 
 ## Live website
 
-The live link can be found here - [MIMO](https://mimo-app-bab402704619.herokuapp.com/) 
+The live link can be found here - [MIMO](https://mimo-task-app-c03ec574035d.herokuapp.com/tasks/) 
 
 ![MIMO responsive screenshot](docs/amiresponsive.png)
 
